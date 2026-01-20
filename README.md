@@ -1,4 +1,4 @@
-## GERENCIADOR DE TAREFAS 
+## GERENCIADOR DE TAREFAS - https://nkandre.github.io/to-do-list/
 
 ## DESCRIÇÃO :
 Aplicativo de lista de tarefas desenvolvido com HTML, CSS e JavaScript. Permite criar, editar e remover tarefas, com suporte a tema claro 🌞 e escuro 🌙. 
